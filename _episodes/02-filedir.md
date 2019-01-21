@@ -378,7 +378,7 @@ To **quit** the `man` pages, press <kbd>Q</kbd>.
 >
 > Before starting this exercise, change to the `data-shell` directory using
 > `cd ~/Desktop/data-shell` (assuming you unzipped the `data-shell` directory to your 
-> desktop.
+> desktop).
 > 
 > The command `ls -R` lists the contents of directories recursively, i.e., lists
 > their sub-directories, sub-sub-directories, and so on at each level. The command
