@@ -376,6 +376,10 @@ To **quit** the `man` pages, press <kbd>Q</kbd>.
 
 > ## Listing Recursively and By Time
 >
+> Before starting this exercise, change to the `data-shell` directory using
+> `cd ~/Desktop/data-shell` (assuming you unzipped the `data-shell` directory to your 
+> desktop.
+> 
 > The command `ls -R` lists the contents of directories recursively, i.e., lists
 > their sub-directories, sub-sub-directories, and so on at each level. The command
 > `ls -t` lists things by time of last change, with most recently changed files or
